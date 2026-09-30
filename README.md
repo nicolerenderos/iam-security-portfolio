@@ -8,7 +8,7 @@ I currently work in security operations, investigating alerts through Microsoft 
 
 ## Portfolio Projects
 
-### [Okta Group-Based Application Access with MFA and OIDC/PKCE](./okta-group-based-access/)
+### [Okta Group-Based Application Access with MFA and OIDC/PKCE](./okta-group-based-access/README.md)
 
 Configured secure access to a fictional Finance application using user and group administration, group-based application assignment, Okta Verify MFA, OpenID Connect, Authorization Code with PKCE, and authorization-server access policies.
 

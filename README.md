@@ -21,6 +21,8 @@ I am expanding my hands-on IAM experience through practical labs involving user 
 
 Configured a fictional Okta environment for Silkstar Solutions to demonstrate user onboarding, group-based application access, authentication requirements, and application integration.
 
+[View the complete Project 1 walkthrough](okta-group-based-access/README.md)
+
 #### Work Completed
 
 - Created and configured a fictional employee identity.
